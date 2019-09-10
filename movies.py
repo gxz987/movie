@@ -9,6 +9,10 @@ from PyQt5.QtWidgets import QLabel, QPushButton, QLineEdit, QListWidget, QGridLa
 from movieSource.MovieHeaven import MovieHeaven
 
 
+
+
+
+
 class ImageWindow(QMainWindow):
     def __init__(self, resources, title):
         super(ImageWindow, self).__init__()
