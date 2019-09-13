@@ -1,5 +1,6 @@
 # -*- encoding:utf-8 -*-
 import sys
+import time
 
 from PyQt5.QtCore import QThread
 from PyQt5.QtGui import QIcon, QPixmap, QImage
